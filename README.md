@@ -19,7 +19,7 @@ Current running bot version: A-0.3
 ## Contacts
 
 # RU
-[EN](#EN]
+[EN](#EN)
 ### **АЛЁ!**
 Этот бот сделан для работы в Twitch-табе стримера [Литургин](https://www.twitch.tv/liturgin)
 Текущая версия бота: A-0.3
