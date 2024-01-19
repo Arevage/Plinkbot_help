@@ -4,6 +4,7 @@
 ### **WARNING:**
 This bot is made **ONLY** for running in [Liturgin's tab](https://www.twitch.tv/liturgin)
 Current running bot version: A-0.3
+
 [Help](#Help)
 
 [Commands](Commands)
