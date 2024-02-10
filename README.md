@@ -4,7 +4,7 @@
 ### **WARNING:**
 This bot is made **ONLY** for running in [Liturgin's tab](https://www.twitch.tv/liturgin)
 
-Current running bot version: A-0.3
+Current running bot version: b 0.3
 
 [Help](#Help)
 
@@ -12,40 +12,71 @@ Current running bot version: A-0.3
 
 [Contacts](#Contacts)
 
-(THE ENGLISH SECTION OF HELP PAGE IS NOT READY YET, BUT IT WILL BE HERE VERY SOON)
+(THE ENGLISH SECTION OF HELP PAGE IS NOT COMPLETELY READY YET, BUT IT WILL BE HERE VERY SOON {Clueless})
 
 ## Help
-
+No one will ever help you MEGALUL
 ## Commands
+*All bot commands use "=" message prefix*
 
+"=help" - Returns a link to this Github repository
+
+"=yt" (YouTube) - Returns user a link to streamer's youtube
+
+"=tg" (Telegram) {Aliases: telegram, telegramm) - Returns user a link to broadcaster's telegram channel
+
+"=online" {Aliases: count, check, chat} - Return count of current tab active users (online chatters)
+
+"=swap <context>" - Sends back to user his message with fixed layout from Russian to English (E.g if your message was written in Russian but in English keyboard layout and in opposite case), command automatically figures out which layout you wanted to use
+
+"=m <username>" (Mods) - Sends to moderation a report to a violator, mentioned in the message
 ## Contacts
-
+No contacts? Such a fucking pity, huh?
 # RU
 [EN](#EN)
-### **АЛЁ!**
+### **plink!**
 Этот бот сделан для работы в Twitch-табе стримера [Литургин](https://www.twitch.tv/liturgin)
 
-Текущая версия бота: A-0.3
+Текущая версия бота: beta 0.3
 
 [Помощь](#Помощь)
 
-[Комманды](Комманды)
+[Команды](Команды)
 
 [Контакты](#Контакты)
 ## Помощь
+Никто вам не поможет MEGALUL
+## Команды
+*Все команды в боте используют префикс "="*
 
-## Комманды
-Все команды в боте используют префикс "="
+"=help" - Возврат пользователю ссылку на данный Github-репозиторий
 
-"=yt" - Возврат пользователю ссылки на YouTube канал стримера
+"=yt" (YouTube) - Возврат пользователю ссылки на YouTube канал стримера
 
-"=tg" / "=telegram" / "=telegramm" - Возврат пользователю ссылки на Telegram канал стримера
+"=tg" (Telegram) {Aliases: telegram, telegramm) - Возврат пользователю ссылки на Telegram канал стримера
 
-"=help" - Возврат пользователю ссылки на данный Github-репозиторий
+"=onilne" - {Aliases: count, check, chat} - Возвращает пользователю колличество активных пользователей в текущем табе (онлайн чаттеров)
 
-"=massping" (КОМАНДА МОЖЕТ БЫТЬ НЕАКТИВНА НА ДАННЫЙ МОМЕНТ) - Отправляет анонс-сообщение с упоминаниями всех пользователей в "Масспинг-литсе" (Имеет тот же функционал, что и скрипт запуска стрима {НЕАКТУАЛЬНО})
+"=swap <context>" - Изменяет неверную раскладку текста в сообщении (К примеру, если английские символы были написаны на русской раскладке, или наоборот: русские символы на английской раскладке)
+
+"=m <username>" (Mods) - Отправляет жалобу на указанного в сообщени пользователя модерации
+
+"=doping" {Aliases: do_ping, do_mass_ping, do_massping, add_massping, addmassping, pingme (why so much)} - Добавляет отправившего команду в ***масспингпинг-лист***
+
+"=dontping" - Удаляет отправившего команду в ***масспингпинг-лист***
+
+"=massping" (REQUIRES MODERATOR PERMISSIONS) {Aliases: mass, pingall} - Отправляет в чат сообщение с перечислением всех пользователей, добавленных в ***масспингпинг-лист***
+
+"=massannounce <announcement>" (REQUIRES MODERATOR PERMISSIONS) {Aliases: announceall, tellall, massmessage, massmsg} - Отправляет в чат сообщение с перечислением всех пользователей, добавленных в ***масспингпинг-лист*** и указанным оповещением
+
+"=plink" - plink!
+
 
 ## Контакты
 (НА ДАННЫЙ МОМЕНТ ЗДЕСЬ НЕТУ КОНТАКТОВ ДЛЯ ПРЯМОЙ СВЯЗИ С АВТОРОМ БОТА, НО ОНИ ВОТ-ВОТ ДОЛЖНЫ ПОЯВИТЬСЯ)
 
-Автор бота: Arevage
+...
+
+ты думал, здесь что-то будет? О-о-о, нет!
+
+Автор бота: kto ?
