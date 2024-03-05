@@ -2,7 +2,6 @@
 # EN
 [RU](#RU)
 ### **WARNING:**
-This bot is made **ONLY** for running in [Liturgin's tab](https://www.twitch.tv/liturgin)
 
 Current running bot version: Beta 0.4.2
 
@@ -35,7 +34,6 @@ No contacts? Such a fucking pity, huh?
 # RU
 [EN](#EN)
 ### **plink!**
-Этот бот сделан для работы в Twitch-табе стримера [Литургин](https://www.twitch.tv/liturgin)
 
 Текущая версия бота: Beta 0.4.2
 
