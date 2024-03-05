@@ -3,7 +3,7 @@
 [RU](#RU)
 ### **WARNING:**
 
-Current running bot version: Beta 0.4.2
+Current running bot version: Beta 0.4.4
 
 [Help](#Help)
 
@@ -35,7 +35,7 @@ No contacts? Such a fucking pity, huh?
 [EN](#EN)
 ### **plink!**
 
-Текущая версия бота: Beta 0.4.2
+Текущая версия бота: Beta 0.4.4
 
 [Помощь](#Помощь)
 
