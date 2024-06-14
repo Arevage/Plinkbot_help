@@ -1,13 +1,15 @@
-{
-    name: "Massping",
-    tags: "Moderators only",
-    text: "This command triggers pinging all users in <i>massping list</i> in channel's chat",
-},
-{
-    name: "Help",
-    text: "Gives you a link to this site",
-},
-{
-    name: "plink",
-    text: "plink ❗",
-}
+[
+    {
+        name: "Massping",
+        tags: "Moderators only",
+        text: "This command triggers pinging all users in <i>massping list</i> in channel's chat",
+    },
+    {
+        name: "Help",
+        text: "Gives you a link to this site",
+    },
+    {
+        name: "plink",
+        text: "plink ❗",
+    }
+]
