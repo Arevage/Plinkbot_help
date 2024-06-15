@@ -1,1 +1,23 @@
-[{name: "Massping",tags: "Moderators only",text: "This command triggers pinging all users in <i>massping list</i> in channel's chat",},{name: "Help",text: "Gives you a link to this site",},{name: "plink",text: "plink ❗",}]
+[
+    {
+        "name": "Help",
+        "text": "Gives you a link to this site"
+    },
+    {
+        "name": "Massping",
+        "tags": "Moderators only",
+        "desc": "This command triggers pinging all users in massping list in channel's chat"
+    },
+    {
+        "name": "Online",
+        "desc": "Gives you current amount of chatters logged into this channel"
+    },
+    {
+        "name": "Mods",
+        "desc": "Reports a mentioned user"
+    },
+    {
+        "name": "plink",
+        "desc": "plink ❗"
+    }
+]
