@@ -1,5 +1,9 @@
-# PlinkBot
-# EN
+# https://plinkbot.netlify.app/
+**Current website version: alpha 0.0.5**
+
+
+### PlinkBot
+### EN
 [RU](#RU)
 ### **WARNING:**
 
